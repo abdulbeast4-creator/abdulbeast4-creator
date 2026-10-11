@@ -1,15 +1,11 @@
 // Pulls live numbers from the GitHub GraphQL API. Falls back to the last saved values if offline.
 import fs from 'node:fs';
 import path from 'node:path';
-import { execSync } from 'node:child_process';
 
+// Only the Actions token is used: it sees public data, so the card shows numbers any visitor can verify.
+// Locally (no GITHUB_TOKEN) the last saved values are reused.
 function token() {
-  if (process.env.GITHUB_TOKEN) return process.env.GITHUB_TOKEN;
-  try {
-    return execSync('gh auth token', { encoding: 'utf8' }).trim();
-  } catch {
-    return null;
-  }
+  return process.env.GITHUB_TOKEN || null;
 }
 
 async function gql(query, variables, tok) {
@@ -43,7 +39,7 @@ export async function fetchStats(login, cacheFile) {
       const s = await gql(
         `query($q:String!,$after:String){search(query:$q,type:ISSUE,first:100,after:$after){issueCount
           pageInfo{hasNextPage endCursor} nodes{... on PullRequest{changedFiles}}}}`,
-        { q: `author:${login} type:pr is:merged`, after },
+        { q: `author:${login} type:pr is:merged is:public`, after },
         tok,
       );
       merged = s.search.issueCount;

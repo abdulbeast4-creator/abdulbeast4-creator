@@ -25,7 +25,7 @@
 - [Destroy native map on teardown so the map re-renders on re-open](https://github.com/hushh-labs/hushh-research/pull/5090)
 - [Name the counterparty in feed events before falling back to "Someone"](https://github.com/hushh-labs/hushh-research/pull/5107)
 - [Structural type validation inside `normalizeConsentResponse`](https://github.com/hushh-labs/hushh-research/pull/3088)
-- [Geo-anchor location in JobPosting schema for search visibility](https://github.com/hushh-labs/hushh-search-console/pull/629)
+- [Founder profile page with Wikidata entity reconciliation for search](https://github.com/hushh-labs/hushh-research/pull/6840)
 
 [All merged pull requests](https://github.com/search?q=author%3Aabdulbeast4-creator+is%3Apr+is%3Amerged&type=pullrequests)
 

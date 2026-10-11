@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths: [.github/workflows/snake.yml]
 
 permissions:
   contents: write
@@ -15,12 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      # Silver palette to match the chrome cards.
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#1d1f23&color_dots=#eceef1,#d3d7dc,#aab0b8,#7d848d,#4b5159
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#f2f4f7&color_dots=#161a1f,#2b3037,#4b525b,#8a919a,#d2d6dc
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

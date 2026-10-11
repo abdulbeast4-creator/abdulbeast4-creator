@@ -1,47 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Abdul%20Rashid&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20Product-Led%20Growth&descSize=18&descAlignY=58" width="100%" alt="Abdul Rashid, AI Full-Stack Engineer, Product-Led Growth" />
+<img src="assets/hero.webp" width="100%" alt="Abdul Rashid. AI Full-Stack Engineer. Agentic AI, full stack, product-led growth. Open to work, UAE." />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=AI+full-stack+engineer;Agentic+AI+%C2%B7+LLM+workflows+%C2%B7+data+pipelines;Next.js+%C2%B7+TypeScript+%C2%B7+Python;Product-led+growth%3A+SEO%2C+discovery%2C+onboarding;270%2B+merged+PRs+shipped+to+production" alt="Typing intro" /></a>
+<br />
+<br />
 
-<p>
-  <a href="https://www.linkedin.com/in/abdul-rashid-284a8121a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Location-UAE-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: UAE" />
-  <img src="https://img.shields.io/badge/Open%20to%20work-16a34a?style=for-the-badge" alt="Open to work" />
-</p>
+<a href="https://www.linkedin.com/in/abdul-rashid-284a8121a/"><img src="assets/btn-linkedin.svg" height="46" alt="Connect on LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Aabdulbeast4-creator+is%3Apr+is%3Amerged&type=pullrequests"><img src="assets/btn-prs.svg" height="46" alt="Browse merged pull requests" /></a>
 
 </div>
 
-## About me
+<br />
 
-I'm an AI full-stack engineer. I build agentic AI products used by real people: LLM workflows, backend systems, data pipelines, reliability, and product engineering. I also build the growth layer around them: search visibility, onboarding, and the flows that turn a visitor into an active user.
+<img src="assets/stats.svg" width="100%" alt="By the numbers: merged pull requests, contributions in the last 12 months, files changed in pull requests, and active days. Refreshed daily from GitHub." />
 
-- **Recent work:** AI full-stack and product-led growth engineer at a consent-first personal AI startup
-- **Built:** live location sharing, activity feeds, consent flows, careers and discovery pages
-- **Interested in:** agentic AI, LLM workflows, privacy-first data systems, machine learning
-- **Based in:** UAE, open to AI full-stack and growth engineering roles
+<img src="assets/experience.svg" width="100%" alt="Experience. AI Full-Stack Engineer, personal AI startup, full-time, Apr 2026 to Sep 2026. Open-Source Software Engineer, personal AI startup, internship, Apr 2026 to Jun 2026. Data Science Researcher, Dhanalakshmi Srinivasan University, Jun 2025 to Dec 2025." />
 
-## Experience
-
-| Role | Organization | Type | Dates |
-|---|---|---|---|
-| **AI Full-Stack Engineer** | Personal AI startup | Full-time | Apr 2026 – Sep 2026 |
-| **Open-Source Software Engineer** | Personal AI startup | Internship | Apr 2026 – Jun 2026 |
-| **Data Science Researcher** | Dhanalakshmi Srinivasan University | On-site | Jun 2025 – Dec 2025 |
-
-At the startup I began as an open-source contributor, became an intern, and then moved to a full-time role.
-
-## What I've shipped
-
-**274 merged pull requests** to production repositories since May 2026.
-
-| Area | Work |
-|---|---|
-| **Product features** | Live location sharing with SOS, timed shares and maps; activity feed; people search; consent-response validation |
-| **Mobile (iOS)** | Capacitor app fixes: keyboard handling, native map lifecycle, CSV preview and download |
-| **Product-led growth** | Careers-site SEO: JobPosting structured data, sitemaps, Search Console, Wikidata entity linking, local discovery pages |
-| **Infrastructure** | Google Cloud Build deploy scripts, GitHub Actions workflows, build-time config |
-| **Quality** | Unit tests for routing, navigation and utility modules (Vitest) |
+<img src="assets/shipped.svg" width="100%" alt="What I've shipped: live location sharing, iOS app with Capacitor, product-led growth and SEO, infrastructure, consent and data, test coverage." />
 
 <details>
 <summary><b>Selected pull requests</b></summary>
@@ -53,36 +27,24 @@ At the startup I began as an open-source contributor, became an intern, and then
 - [Structural type validation inside `normalizeConsentResponse`](https://github.com/hushh-labs/hushh-research/pull/3088)
 - [Geo-anchor location in JobPosting schema for search visibility](https://github.com/hushh-labs/hushh-search-console/pull/629)
 
-[See all merged PRs](https://github.com/search?q=author%3Aabdulbeast4-creator+is%3Apr+is%3Amerged&type=pullrequests)
+[All merged pull requests](https://github.com/search?q=author%3Aabdulbeast4-creator+is%3Apr+is%3Amerged&type=pullrequests)
 
 </details>
 
-## Tech stack
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,py,postgres&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Python, PostgreSQL" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=sklearn,vitest,gcp,githubactions,git,github,vscode,html&perline=8" alt="scikit-learn, Vitest, Google Cloud, GitHub Actions, Git, GitHub, VS Code, HTML" />
-</p>
+<img src="assets/stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Python, PostgreSQL, scikit-learn, pandas, Vitest, Capacitor, Google Cloud, GitHub Actions, Git." />
 
-## Projects
+<a href="https://github.com/abdulbeast4-creator/ML_projects"><img src="assets/project.svg" width="100%" alt="Project: AutoML Desktop App. Upload a CSV, train eight scikit-learn classifiers, compare scores and plot learning curves. Joint project with Santhosh-cobbler." /></a>
 
-| Project | Description | Stack |
-|---|---|---|
-| [AutoML Desktop App](https://github.com/abdulbeast4-creator/ML_projects) | Joint project with [@Santhosh-cobbler](https://github.com/Santhosh-cobbler). Upload a CSV, pick the target column, train 8 scikit-learn classifiers in one click, compare test and 5-fold cross-validation scores, plot learning curves | Python, PyQt5, scikit-learn, pandas |
+<br />
+<br />
 
-## GitHub stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulbeast4-creator/abdulbeast4-creator/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/abdulbeast4-creator/abdulbeast4-creator/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution graph animation" />
+</picture>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulbeast4-creator&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=abdulbeast4-creator&hide_border=true&theme=tokyonight" alt="Contribution streak" />
-</p>
+<img src="assets/footer.svg" width="100%" alt="Designed and built by Abdul Rashid in the UAE." />
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulbeast4-creator/abdulbeast4-creator/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/abdulbeast4-creator/abdulbeast4-creator/output/github-contribution-grid-snake.svg" alt="Contribution graph snake animation" />
-  </picture>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
+<!-- Visuals are generated from design/. Edit design/src/profile.js, then run `npm run build` in design/. -->

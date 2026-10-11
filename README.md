@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Abdul%20Rashid&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Product-Led%20Growth&descSize=18&descAlignY=58" width="100%" alt="Abdul Rashid, Full-Stack Engineer, Product-Led Growth" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Abdul%20Rashid&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20Full-Stack%20Engineer%20%C2%B7%20Product-Led%20Growth&descSize=18&descAlignY=58" width="100%" alt="Abdul Rashid, AI Full-Stack Engineer, Product-Led Growth" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Full-stack+engineer+for+personal+AI+products;Next.js+%C2%B7+TypeScript+%C2%B7+Python;Product-led+growth%3A+SEO%2C+discovery%2C+onboarding;270%2B+merged+PRs+shipped+to+production" alt="Typing intro" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=AI+full-stack+engineer;Agentic+AI+%C2%B7+LLM+workflows+%C2%B7+data+pipelines;Next.js+%C2%B7+TypeScript+%C2%B7+Python;Product-led+growth%3A+SEO%2C+discovery%2C+onboarding;270%2B+merged+PRs+shipped+to+production" alt="Typing intro" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/abdul-rashid-284a8121a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,22 +14,22 @@
 
 ## About me
 
-I'm a full-stack engineer working on a consent-first personal AI platform. I build product features end to end (web, mobile, backend) and the growth layer around them: search visibility, onboarding, and the flows that turn a visitor into an active user.
+I'm an AI full-stack engineer. I build agentic AI products used by real people: LLM workflows, backend systems, data pipelines, reliability, and product engineering. I also build the growth layer around them: search visibility, onboarding, and the flows that turn a visitor into an active user.
 
-- **Now:** Full-stack and product-led growth engineer at a personal AI startup
-- **Building:** live location sharing, activity feeds, consent flows, careers and discovery pages
-- **Interested in:** applied AI agents, privacy-first data systems, machine learning
-- **Based in:** UAE, open to full-stack and growth engineering roles
+- **Recent work:** AI full-stack and product-led growth engineer at a consent-first personal AI startup
+- **Built:** live location sharing, activity feeds, consent flows, careers and discovery pages
+- **Interested in:** agentic AI, LLM workflows, privacy-first data systems, machine learning
+- **Based in:** UAE, open to AI full-stack and growth engineering roles
 
 ## Experience
 
-```text
-Full-Stack & PLG Engineer     full-time      Personal AI startup     current
-Software Engineering Intern   internship     Personal AI startup
-Open-Source Contributor       open source    Same codebase, before joining
-```
+| Role | Organization | Type | Dates |
+|---|---|---|---|
+| **AI Full-Stack Engineer** | Personal AI startup | Full-time | Apr 2026 – Sep 2026 |
+| **Open-Source Software Engineer** | Personal AI startup | Internship | Apr 2026 – Jun 2026 |
+| **Data Science Researcher** | Dhanalakshmi Srinivasan University | On-site | Jun 2025 – Dec 2025 |
 
-I started by sending pull requests to the company's open-source repository, joined as an intern, and moved to a full-time role.
+At the startup I began as an open-source contributor, became an intern, and then moved to a full-time role.
 
 ## What I've shipped
 
@@ -69,7 +69,7 @@ I started by sending pull requests to the company's open-source repository, join
 
 | Project | Description | Stack |
 |---|---|---|
-| [AutoML Desktop App](https://github.com/abdulbeast4-creator/ML_projects) | Upload a CSV, pick the target column, train 8 scikit-learn classifiers in one click, compare test and 5-fold cross-validation scores, plot learning curves | Python, PyQt5, scikit-learn, pandas |
+| [AutoML Desktop App](https://github.com/abdulbeast4-creator/ML_projects) | Joint project with [@Santhosh-cobbler](https://github.com/Santhosh-cobbler). Upload a CSV, pick the target column, train 8 scikit-learn classifiers in one click, compare test and 5-fold cross-validation scores, plot learning curves | Python, PyQt5, scikit-learn, pandas |
 
 ## GitHub stats
 
